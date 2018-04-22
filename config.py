@@ -23,4 +23,4 @@ show_key_self_count = False
 lang = 'zh_CN'
 
 admin_user = 'admin'
-admin_pwd = '7824092'
+admin_pwd = 'admin'
