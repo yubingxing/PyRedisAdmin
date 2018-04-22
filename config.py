@@ -6,13 +6,7 @@ base = {
               'port': 6379,
               'password': '',
               'databases':16
-              },
-              {'index':1,
-               'name': 'server2', 
-              'host': '127.0.0.1',
-              'port': 6379,
-              'databases':16
-              },
+              }
           ],
     'seperator' : ':',
     'maxkeylen' : 100
@@ -29,4 +23,4 @@ show_key_self_count = False
 lang = 'zh_CN'
 
 admin_user = 'admin'
-admin_pwd = 'admin'
+admin_pwd = '7824092'
